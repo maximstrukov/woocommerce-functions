@@ -1,0 +1,42 @@
+#membership_plan, #coaching_plan {
+	display:none;
+}
+tr.plan_row td span {
+	display:none;
+}
+
+tr td  hr {
+	border-top: 1px solid #ccc;	
+}
+
+p.submit {
+	margin-top: 0;
+}
+
+table.form-table td.div_line {
+	padding: 0;
+}
+
+h2.sub_header {
+	margin-top: 35px;
+}
+
+textarea[name="text_for_custom_email"] {
+	width: 300px;
+}
+
+table.coaching-tests tr td {
+	padding: 5px;
+}
+
+table.coaching-tests tr td:first-child {
+	width: 20px;
+}
+
+table.coaching-tests tr td input[type="checkbox"] {
+	margin-top: -3px;
+}
+
+#memberhip_length_row, #coaching_length_row {
+	display: none;
+}

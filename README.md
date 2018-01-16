@@ -1,1 +1,1 @@
-# woocommerce-functions
+"# coaching-site-functionality" 
